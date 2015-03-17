@@ -1,0 +1,16 @@
+Hi Don,
+
+My name is Spencer Krum. I am one of the organizers of the pdxdevops user group (http://pdxdevops.org/). This is a group of computer professionals that meets once a month. We focus on operations and using developer practices to do operations faster. What operations means in this context is the daily maintenance of servers, websites and the like.
+
+Our next meetup is October 20th, a Monday night at 6:30pm. I think it will be at New Relic's office in the US Bancorp Tower (Big Pink.) Usually these go for a couple hours and have 1 or more speakers. There is usually beer and pizza.
+
+What I'd like the next meeting to focus on is 'Incident Response.' The day to day tasks are to keep things humming. But sometimes everything is broken and we need to respond swiftly and correctly. What I'd like is for someone from ODOT's emergency response team to come speak to us. As computer folk, we have a different set of responsibilities than you, as a public utility/service/provider. But I think there are similarities that go beyond specifics.
+
+What I'm looking for is someone to come give a 30-45 minute presentation on how ODOT does incident response and maybe the theory behind it. How is the initial report verified/responded to? What filtering is used to detect a false-positive? Are incidents coming from 911 calls or automated sensors? There are probably some responders spooled at any given time, but then how do you decide when to wake more people up? Who makes that call? When do you tell your customers? What methods do you use? How long is the period from initial report to having a responder on the ground feeding correct information? When do you close a road and re-route? What technology is leveraged? Most of these questions have direct consequences to the computer/operations world. After the presentation, the group will engage in a round table discussion of incident response in the computer world and what we can learn from ODOT.
+
+I know this is coming way out of left-field. I may not have successfully expressed myself. If you have some questions please ask and I'll be happy to answer them.
+
+Thanks,
+Spencer
+
+
